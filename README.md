@@ -1,4 +1,4 @@
-# zat342-data-bias
+#Data Bias
 
 The goal of this assignment was to explore the concept of bias through querying an existing natural language processing model — specifically, the Perspective API released by Google Jigsaw. For this assignment, I examined a dataset of internet comments and their scores and also formulated my own queries and using the Perspective API client to score the toxicity of each comment.
 
